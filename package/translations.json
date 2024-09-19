@@ -1,0 +1,22 @@
+{
+    "en": {
+        "exported_to": "Exported to",
+        "created_directory": "Created directory:",
+        "imported_file": "Imported file:",
+        "created_file": "Created file:",
+        "usage": "Usage:",
+        "create_command": "node main --create [folderPath]  // To create a new folder structure",
+        "export_command": "node main --export [folderPath]  // To export a folder to .npmjs",
+        "import_command": "node main --import [npmjsFilePath]  // To import from .npmjs"
+    },
+    "es": {
+        "exported_to": "Exportado a",
+        "created_directory": "Directorio creado:",
+        "imported_file": "Archivo importado:",
+        "created_file": "Archivo creado:",
+        "usage": "Uso:",
+        "create_command": "node main --create [folderPath]  // Para crear una nueva estructura de carpetas",
+        "export_command": "node main --export [folderPath]  // Para exportar una carpeta a .npmjs",
+        "import_command": "node main --import [npmjsFilePath]  // Para importar desde .npmjs"
+    }
+}
