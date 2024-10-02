@@ -1,0 +1,7 @@
+Package Version: 1.0.6
+Package Name: npmjs-file
+Package Author: Leonel Joel Flores Gauna
+
+Implemented:
+Added a Command called `--list-translations`
+Added More Languages Available like pt, it, etc.
