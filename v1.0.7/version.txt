@@ -1,0 +1,5 @@
+Package Version: 1.0.7
+Package Name: npmjs-file
+Package Author: Leonel Joel Flores Gauna
+
+Package Implemetation: Coming Soon
